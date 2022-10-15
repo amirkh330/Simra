@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "IranBakh";
+  src: url("./Asset/Fonts/Yekan\ Bakh\ FaNum\ 04\ Regular.eot") format("eot"),
+    url("./Asset/Fonts/Yekan\ Bakh\ FaNum\ 04\ Regular.ttf") format("ttf"),
+    url("./Asset/Fonts/Yekan\ Bakh\ FaNum\ 04\ Regular.woff") format("woff");
+}
+
+body {
+  margin: 0;
+  direction: rtl;
+  font-family: "IranBakh";
+}
